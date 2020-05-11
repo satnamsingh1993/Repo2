@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 1667-0705
+
+ Directory of C:\Users\A0796824\Desktop\MyProject
+
+05/11/2020  04:59 PM    <DIR>          .
+05/11/2020  04:59 PM    <DIR>          ..
+05/11/2020  04:59 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  169,969,201,152 bytes free
